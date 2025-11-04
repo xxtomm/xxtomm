@@ -5,4 +5,4 @@ discord - xxtomm
 ui.3x.gl - ui components
 ```
 
-check out https://itstom.dev for more about me
+check out https://tomm.page for more about me
